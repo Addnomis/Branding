@@ -1,0 +1,28 @@
+# Large content files (images and videos)
+04_Ticktocks/
+07_posts/
+
+# Temporary files
+*.tmp
+*.log
+
+# macOS files
+.DS_Store
+
+# Environment files (if any secrets added later)
+.env
+.env.local
+
+# Node modules (if any JS tooling added)
+node_modules/
+
+# Wrangler local dev files
+.wrangler/
+.dev.vars
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

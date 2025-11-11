@@ -1,0 +1,8 @@
+name = "linkedin-cms"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "linkedin-cms"
+database_id = "bd4cdd67-cc25-40a5-b173-2bea15f301d5"
