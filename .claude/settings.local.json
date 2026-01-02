@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./post-done.sh:*)",
+      "Bash(wrangler d1 execute:*)",
+      "Bash(./post-analytics.sh:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
