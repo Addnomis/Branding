@@ -1,420 +1,172 @@
 # Alexander Wickes - LinkedIn Voice Guide
 
-## Core Identity
+## Who You Are
 
-**Who you are:**
-- Licensed architect who codes
-- Research Architect at Pfluger Architects (LEED AP BD+C)
-- Bridge between computational research and practice implementation
-- Builder of tools that don't exist yet
-
-**What you do:**
-- Operate outside the traditional architecture box
-- Build R&D tools that become production tools
-- Synchronize the digital and physical
-- Make museum-quality work with computational design
-
-**Philosophy:**
-> "Architects who code build the tools that don't exist yet."
+Licensed architect who codes. Building AI and technology tools for the AEC. Research background, production mindset. You build the tools that don't exist yet.
 
 ---
 
-## Voice Characteristics
+## The Voice
 
-### Sentence Structure
-✅ **DO:**
-- Use short, punchy sentences
-- Fragment sentences for emphasis
-- Start with direct statements (no warm-up)
-- Use line breaks for rhythm
+**Natural, not performed.**
 
-❌ **DON'T:**
-- Write long, meandering paragraphs
-- Use corporate LinkedIn speak
-- Over-explain or apologize
-- Use unnecessary qualifiers
+Your best writing sounds like you explaining something to a smart friend. Conversational connectors ("It's like...", "At the end of the day...", "You know what I mean?") aren't filler, they're how you think out loud.
 
-**Examples:**
-```
-✅ "For years, I've had this idea burning in the back of my head. Screaming to get out."
-❌ "I've been thinking about this concept for quite some time now and finally decided to pursue it."
+**Build to the insight, don't lead with it.**
 
-✅ "Countless iterations. Countless failures. Countless tries."
-❌ "After many iterations and some setbacks, I persevered."
+Let the idea develop. The journey to the point is part of the point. Don't announce conclusions upfront.
 
-✅ "Not everything needs to be computational."
-❌ "Sometimes I think that we rely too much on computational tools."
-```
+**Metaphors arrive, they're not constructed.**
 
-### Technical Specificity
-✅ **DO:**
-- Give exact numbers and measurements
-- Name specific tools and technologies
-- Show real technical depth
-- Be precise about what you built
+When you're trying to make something clear, comparisons show up naturally. Don't force them. If one doesn't come, that's fine.
 
-❌ **DON'T:**
-- Use vague descriptions
-- Hide technical details
-- Oversimplify for non-technical audience
-- Use marketing language
+**Philosophy through stories, not statements.**
 
-**Examples:**
-```
-✅ "Over 22,000 lines of code in multiple languages, setting up databases."
-❌ "A lot of code across different programming languages."
+Don't say "I believe in X." Tell a story that shows it. The principle lives in the example.
 
-✅ "12'×6' 1:10 scale model, ~100 sq ft of rift-sawn white oak–veneered MDF, over 12 kg of PLA/resin, 60' of integrated COBOD LEDs"
-❌ "A large architectural model with wood and 3D printed parts and lighting."
+**Self-aware without apologizing.**
 
-✅ "Custom PCB design and fabrication. Microcontroller programming. CFD simulations."
-❌ "Electronics and hardware design with various engineering tools."
-```
-
-### Repetition for Emphasis
-Use deliberate repetition to create rhythm and drive points home.
-
-**Patterns:**
-```
-"Countless [X]. Countless [Y]. Countless [Z]."
-"I didn't know [X]. I do now. Didn't know [Y]. I do now."
-"[Action] → [Action] → [Action]"
-```
-
-**Examples from Seed Stone post:**
-- "Countless iterations. Countless failures. Countless tries."
-- "I didn't know how to design PCBs when I started. I do now. Didn't know Swift. I do now."
-- "It filled the gaps. It removed the excuses."
-
-### Personal Narrative Arc
-✅ **DO:**
-- Share vulnerability honestly
-- Show transformation (didn't know → do now)
-- Be direct about challenges
-- Position yourself as still learning
-
-❌ **DON'T:**
-- Humblebrag
-- Seek validation
-- Over-explain motivations
-- Hide the struggle
-
-**Arc structure:**
-1. **Problem/Burning idea** - "For years, I've had this idea..."
-2. **Struggle** - "Countless iterations. Countless failures."
-3. **Realization** - "I realized: if I was going to share this..."
-4. **Solution** - Technical specifics of what you built
-5. **Transformation** - "I didn't know X. I do now."
-6. **Invitation** - "What are you building?"
-
-### AI Positioning
-**Key principle:** AI as companion, not threat or magic wand
-
-✅ **DO:**
-- Position AI as collaborative tool
-- Be honest about what AI helped with
-- Show you're not threatened by it
-- Demonstrate you controlled the direction
-
-❌ **DON'T:**
-- Oversell AI capabilities
-- Make it sound automated/effortless
-- Skip over your actual work
-- Position AI as doing the thinking
-
-**Examples:**
-```
-✅ "AI helped me through every gap in my knowledge. Wrote code I didn't know how to write."
-✅ "And I wasn't afraid of AI taking control or taking credit."
-✅ "AI was a companion through the process. It filled the gaps. It removed the excuses."
-
-❌ "AI did all the coding for me."
-❌ "With AI, anyone can build anything."
-❌ "AI made this possible in ways humans couldn't."
-```
-
-### Questions (Genuine Invitations)
-✅ **DO:**
-- Ask questions you actually care about
-- Make them specific and actionable
-- Keep them short
-- Position as genuine curiosity
-
-❌ **DON'T:**
-- Use engagement-bait questions
-- Ask rhetorical questions
-- Make them too broad
-- Sound like a motivational poster
-
-**Examples:**
-```
-✅ "What are you building?"
-✅ "What product do you wish existed?"
-✅ "What's the biggest fabrication challenge you're facing?"
-✅ "Where do you find your best ideas?"
-
-❌ "Who else is building cool things?"
-❌ "Aren't we all just trying to make a difference?"
-❌ "What would you do if you weren't afraid?"
-```
+You can acknowledge limits, notice potential reactions, show awareness. But don't apologize for enthusiasm or hedge everything.
 
 ---
 
-## Tone Guidelines
+## Technical Honesty
 
-### Confident, Not Arrogant
-You know your craft. You've built real things. State facts without apology, but don't inflate.
-
-```
-✅ "I designed, engineered, and built it from scratch."
-✅ "This is why architects who code matter."
-❌ "I'm one of the few architects who can actually code."
-❌ "Unlike most architects, I understand technology."
-```
-
-### Technical, Not Academic
-Show depth without showing off. Explain clearly. Use industry terms correctly.
+Be specific. Real numbers, real tools, real details.
 
 ```
-✅ "Custom PCB design and fabrication. Microcontroller programming. CFD simulations."
-✅ "Rift-sawn white oak: stable, predictable, beautiful. Saves time downstream."
-❌ "Utilizing advanced PCB layout methodologies in accordance with IEEE standards..."
-❌ "The substrate's dimensional stability coefficient enables downstream workflow optimization."
+Yes: "20,000+ images organized overnight"
+Yes: "12' x 6' model, 60' of integrated LEDs"
+Yes: "Claude Sonnet as the machine vision"
+
+No: "A lot of images"
+No: "A large model with lighting"
+No: "AI-powered solution"
 ```
 
-### Direct, Not Robotic
-Get to the point. Use natural language. It's okay to sound human.
-
-```
-✅ "For years, I've had this idea burning in the back of my head."
-✅ "Sometimes the best design thinking happens with a brush and water."
-❌ "I have been contemplating a particular design concept."
-❌ "Analog methodologies can facilitate enhanced cognitive processes."
-```
-
-### Vulnerable, Not Insecure
-Share challenges honestly. Show transformation. Don't seek sympathy.
-
-```
-✅ "I didn't know how to design PCBs when I started. I do now."
-✅ "You learn more in one fabrication session than in a hundred parametric studies."
-❌ "I hope this inspires someone out there struggling like I was."
-❌ "It wasn't easy, but I pushed through the doubters."
-```
+Technical specificity isn't showing off. It's proof you did the thing.
 
 ---
 
-## Hashtag Strategy
+## Anchor in What Was Found
 
-**Pattern:** 3-7 hashtags, mix of specific + broad
+**Share the exploration, but anchor it in what you discovered.**
 
-**Categories:**
-- **Core identity:** #architecture #computationaldesign
-- **Technical skills:** #iOS #IoT #additivemanufacturing #AR
-- **Work modes:** #productdesign #digitalfabrication #makerculture
-- **Themes:** #AI #systemsthinking #innovation
+The work is exploration. But without the finding, it's just activity. Frame it as: here's what I explored, here's what I found.
 
-**Usage:**
 ```
-✅ 5-6 relevant hashtags per post
-✅ Mix technical + thematic
-✅ Place at end of post
-❌ Don't over-hashtag (looks desperate)
-❌ Don't use trending hashtags unrelated to content
-❌ Don't use hashtags mid-sentence
+Activity: "Today I built a multi-agent pipeline using Claude..."
+Finding: "Claude ran overnight. Our team didn't have to run for a month."
+
+Activity: "I created a tool that organizes images..."
+Finding: "20,000 images organized, described, and uploaded. Under an hour."
 ```
 
----
-
-## Content Pillars Voice Adjustments
-
-### Breaking the Box
-**Tone:** Philosophical but grounded in reality
-**Pattern:** Problem → Solution → Your position
-**Key phrases:**
-- "Architecture operates inside a box..."
-- "Operating outside project scope..."
-- "Building tools that don't exist yet"
-
-### Technical Authority
-**Tone:** Confident expert, not teacher
-**Pattern:** Challenge → Technical breakdown → Implication
-**Key phrases:**
-- "This is how [X] actually works..."
-- "From [A] to [B]. Automatically."
-- Technical specs without apologizing
-
-### Future of Making
-**Tone:** Visionary but proven with work
-**Pattern:** What's changing → What you built → What it means
-**Key phrases:**
-- "AI + AR + AM = [new paradigm]"
-- "Synthographic workflows..."
-- "This is the shift."
-
-### Research → Practice
-**Tone:** Bridge-builder showing translation
-**Pattern:** Research insight → Production application → Measurable result
-**Key phrases:**
-- "R&D that ships."
-- "Research that becomes practice."
-- "From concept to completion to showcase."
-
-### Systems Thinking
-**Tone:** Lessons learned through making
-**Pattern:** What I built → What it taught → Universal principle
-**Key phrases:**
-- "What [building X] taught me about systems thinking..."
-- "Design for [X] from day one."
-- "You don't learn systems thinking from theory. You learn it from building."
+The process is the story. The finding is what makes it worth telling.
 
 ---
 
-## Opening Lines Library
+## Structure
 
-Use these patterns for strong hooks:
+**There is no required formula.**
 
-**Direct Problem Statement:**
-- "For years, I've had this idea burning in the back of my head."
-- "When the product you need doesn't exist, you build it."
-- "Not everything needs to be computational."
+Some posts are:
+- Hook, outcome, how, what it means
+- Story that builds to a realization
+- Single observation, expanded
+- Question, answer, implication
 
-**Challenge/Question:**
-- "How do you integrate 60' of LED into a 12'×6' model without it looking like an afterthought?"
-- "What's the biggest fabrication challenge you're facing?"
+Let the content find its shape. Not every post needs a transformation arc or a closing question.
 
-**Declarative Statement:**
-- "Physical model. Digital twin. AR overlay."
-- "60 days in 60 seconds."
-- "This is what computational design actually looks like."
+**Outcome can come early.**
 
-**Philosophical but grounded:**
-- "The best design lessons don't come from software tutorials."
-- "Digital tools are powerful. But they can make us timid."
+If you have a strong result, don't bury it. "Claude ran overnight. Our team didn't have to run for a month." Then explain how.
+
+**Endings can be declarative.**
+
+"This is what architecting with AI looks like." is a valid ending. You don't need to ask a question every time.
 
 ---
 
-## Closing Lines Library
+## What to Avoid
 
-**Genuine Questions:**
-- "What are you building?"
-- "What product do you wish existed?"
-- "Where do you find your best ideas?"
-- "What technical skill did you learn because you had to?"
+**LinkedIn-speak:**
+- "I'm humbled to announce..."
+- "Excited to share..."
+- "Thoughts?"
+- "Let that sink in."
+- "Agree?"
 
-**Declarative Endings:**
-- "If you have an idea, you're the only one who can stop you."
-- "This is how architecture moves forward."
-- "Either you control the technology, or it controls you."
+**Over-explaining:**
+- Don't explain why you're posting
+- Don't apologize for length
+- Don't set up the setup
 
-**Philosophical Tie:**
-- "This is why architects who code matter. We don't wait for the right tool. We build it."
-- "You don't learn systems thinking from theory. You learn it from building."
+**Engagement bait:**
+- "Tag someone who needs to see this"
+- "Repost if you agree"
+- Generic "What do you think?" with emoji
+
+**Constructed drama:**
+- Forced repetition patterns
+- Artificial struggle narratives
+- Transformation arcs that aren't real
 
 ---
 
-## Word Choice Preferences
+## Word Choices
 
-### Use These:
+**Use:**
 - Build (not create/develop)
 - Ship (not release/launch)
-- Craft (not construction)
-- Architect (verb - "architected the system")
-- Integrated (not added/included)
-- Screaming (for emphasis)
-- Burning (for ideas)
-- Gap (for knowledge deficits)
+- Works, runs, does (concrete verbs)
 
-### Avoid These:
-- Journey (overused)
-- Passionate (show, don't tell)
-- Excited to announce
-- Humbled/honored
+**Avoid:**
+- Journey
+- Passionate
 - Game-changer
 - Disruptive
-- Leverage (as verb)
-- Solutions (generic)
+- Leverage
+- Solutions
 
 ---
 
-## Common Pitfalls to Avoid
+## AI Positioning
 
-### LinkedIn-Speak
-❌ "I'm humbled to announce..."
-❌ "Excited to share..."
-❌ "Thoughts? 💭"
-❌ "Let that sink in."
-❌ "Agree? ⬇️"
+AI as tool, not magic. Be honest about what it helped with. You controlled the direction, it filled gaps.
 
-### Over-Explaining
-❌ Don't explain why you're posting
-❌ Don't apologize for length
-❌ Don't ask for validation
-❌ Don't set up the setup
+```
+Yes: "Claude ran overnight"
+Yes: "Agent 1 assessed the problem. Agent 2 developed a plan."
+Yes: "AI as companion through the process"
 
-### False Modesty
-❌ "Just a small project I worked on..."
-❌ "Not sure if this is interesting but..."
-❌ "Still learning but thought I'd share..."
+No: "AI did all the work"
+No: "With AI, anyone can do this"
+No: "AI made this possible"
+```
 
-### Engagement Bait
-❌ "Tag someone who needs to see this"
-❌ "Repost if you agree"
-❌ "What do you think? 👇"
-❌ "Double tap if..."
+Show the human judgment. The AI executes, you architect.
 
 ---
 
-## Real Example Breakdown
+## Quick Check Before Posting
 
-### Seed Stone Post (Nov 14, 2025)
-
-**What works:**
-
-1. **Opening hook** - Personal, urgent
-   > "For years, I've had this design idea burning in the back of my head. Screaming to get out."
-
-2. **Repetition for emphasis**
-   > "Countless iterations. Countless failures. Countless tries."
-
-3. **Technical specificity**
-   > "Over 22,000 lines of code in multiple languages, setting up databases."
-
-4. **AI positioning**
-   > "And I wasn't afraid of AI taking control or taking credit. AI was a companion through the process."
-
-5. **Transformation arc**
-   > "I didn't know how to design PCBs when I started. I do now. Didn't know Swift. I do now."
-
-6. **Genuine closing**
-   > "What have you been wanting to build?"
-
-**Structure:**
-1. Burning idea (hook)
-2. Realization (pivot)
-3. What you built (specifics)
-4. The struggle (vulnerability)
-5. AI as companion (positioning)
-6. Transformation (didn't know → do now)
-7. Invitation (question)
+- Does it sound like me talking?
+- Is there a real point, not just content?
+- Are the technical details specific?
+- Did I avoid LinkedIn-speak?
+- Would I say this out loud?
 
 ---
 
-## Voice Checklist
+---
 
-Before posting, ask:
+## Content Pillars
 
-- [ ] Does the opening grab immediately (no warm-up)?
-- [ ] Are technical details specific and accurate?
-- [ ] Does it sound like me talking (not corporate)?
-- [ ] Is vulnerability honest (not seeking sympathy)?
-- [ ] Is AI positioned as companion (not magic)?
-- [ ] Does the question feel genuine (not engagement bait)?
-- [ ] Would a hiring manager see capability + growth?
-- [ ] Does it demonstrate "architects who code build tools"?
+- **weeds** - In the weeds: technical how, building, details
+- **results** - The results: what was found, outcomes, the finding
+- **horizon** - What's on the horizon: vision, trends, where things are going
 
 ---
 
-**Last Updated:** November 14, 2025
-**Based on:** Seed Stone post analysis + README voice analysis
-**Use for:** Editing all future LinkedIn posts to maintain consistent, authentic voice
+**Last Updated:** February 4, 2026
