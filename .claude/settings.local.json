@@ -3,7 +3,16 @@
     "allow": [
       "Bash(./post-done.sh:*)",
       "Bash(wrangler d1 execute:*)",
-      "Bash(./post-analytics.sh:*)"
+      "Bash(./post-analytics.sh:*)",
+      "Bash(curl -s \"https://caahkcfapgjfntifdose.supabase.co/rest/v1/\" -H \"apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNhYWhrY2ZhcGdqZm50aWZkb3NlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzAyNjMwODIsImV4cCI6MjA4NTgzOTA4Mn0.aFCOq1h0EiD7rjw87oE1qs9hZwlqPSdRDNoAl0OF3rM\" -H \"Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNhYWhrY2ZhcGdqZm50aWZkb3NlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzAyNjMwODIsImV4cCI6MjA4NTgzOTA4Mn0.aFCOq1h0EiD7rjw87oE1qs9hZwlqPSdRDNoAl0OF3rM\")",
+      "Bash(python3 -m json.tool)",
+      "Bash(API_KEY=\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNhYWhrY2ZhcGdqZm50aWZkb3NlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzAyNjMwODIsImV4cCI6MjA4NTgzOTA4Mn0.aFCOq1h0EiD7rjw87oE1qs9hZwlqPSdRDNoAl0OF3rM\")",
+      "Bash(BASE=\"https://caahkcfapgjfntifdose.supabase.co/rest/v1\")",
+      "Bash(curl -s \"$BASE/linkedin_posts?select=*&order=post_date.asc\" -H \"apikey: $API_KEY\" -H \"Authorization: Bearer $API_KEY\")",
+      "Bash(for table:*)",
+      "Bash(do echo:*)",
+      "Bash(curl -s \"$BASE/$table?select=*\" -H \"apikey: $API_KEY\" -H \"Authorization: Bearer $API_KEY\")",
+      "Bash(done)"
     ],
     "deny": [],
     "ask": []

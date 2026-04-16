@@ -1,0 +1,132 @@
+[
+    {
+        "id": 2,
+        "post_id": 2,
+        "impressions": 679,
+        "reactions": 8,
+        "comments": 1,
+        "reposts": 0,
+        "engagement_rate": 0.0133,
+        "recorded_at": "2024-11-09"
+    },
+    {
+        "id": 3,
+        "post_id": 3,
+        "impressions": 862,
+        "reactions": 17,
+        "comments": 2,
+        "reposts": 0,
+        "engagement_rate": 0.022,
+        "recorded_at": "2024-11-09"
+    },
+    {
+        "id": 4,
+        "post_id": 4,
+        "impressions": 790,
+        "reactions": 11,
+        "comments": 1,
+        "reposts": 0,
+        "engagement_rate": 0.0152,
+        "recorded_at": "2024-11-09"
+    },
+    {
+        "id": 5,
+        "post_id": 5,
+        "impressions": 948,
+        "reactions": 22,
+        "comments": 0,
+        "reposts": 0,
+        "engagement_rate": 0.0232,
+        "recorded_at": "2024-11-09"
+    },
+    {
+        "id": 6,
+        "post_id": 6,
+        "impressions": 1269,
+        "reactions": 16,
+        "comments": 5,
+        "reposts": 0,
+        "engagement_rate": 0.0165,
+        "recorded_at": "2024-11-09"
+    },
+    {
+        "id": 7,
+        "post_id": 7,
+        "impressions": 1250,
+        "reactions": 39,
+        "comments": 0,
+        "reposts": 0,
+        "engagement_rate": 0.0312,
+        "recorded_at": "2024-11-09"
+    },
+    {
+        "id": 1,
+        "post_id": 1,
+        "impressions": 783,
+        "reactions": 11,
+        "comments": 1,
+        "reposts": 0,
+        "engagement_rate": 0.0153,
+        "recorded_at": "2025-04-13"
+    },
+    {
+        "id": 8,
+        "post_id": 39,
+        "impressions": 748,
+        "reactions": 8,
+        "comments": 3,
+        "reposts": 1,
+        "engagement_rate": 0.016,
+        "recorded_at": "2026-01-27"
+    },
+    {
+        "id": 9,
+        "post_id": 40,
+        "impressions": 671,
+        "reactions": 15,
+        "comments": 0,
+        "reposts": 0,
+        "engagement_rate": 0.022,
+        "recorded_at": "2026-01-30"
+    },
+    {
+        "id": 10,
+        "post_id": 41,
+        "impressions": 478,
+        "reactions": 5,
+        "comments": 0,
+        "reposts": 0,
+        "engagement_rate": 0.0105,
+        "recorded_at": "2026-02-15"
+    },
+    {
+        "id": 11,
+        "post_id": 42,
+        "impressions": 803,
+        "reactions": 15,
+        "comments": 3,
+        "reposts": 1,
+        "engagement_rate": 0.0187,
+        "recorded_at": "2026-02-28"
+    },
+    {
+        "id": 12,
+        "post_id": 43,
+        "impressions": 11712,
+        "reactions": 37,
+        "comments": 27,
+        "reposts": 0,
+        "engagement_rate": 0.0032,
+        "recorded_at": "2026-03-02"
+    },
+    {
+        "id": 13,
+        "post_id": 44,
+        "impressions": 330,
+        "reactions": 11,
+        "comments": 0,
+        "reposts": 0,
+        "engagement_rate": 0.0333,
+        "recorded_at": "2026-03-09"
+    }
+]
